@@ -1,3 +1,3 @@
 # TEST
 
-My first class of git
+My first lecture on Git!
